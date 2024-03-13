@@ -1,0 +1,86 @@
+body{
+    background-image: url(img/fondo.jpg);
+    background-attachment: fixed;
+    padding: 0;
+    margin: 0;
+    background-color: lightblue;
+    width: 90%;
+    margin: 0 auto;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+b{
+    color: red;
+}
+
+header{
+    background-color: black;
+    padding: 10px;
+}
+nav{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+nav a{
+    color: red;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+nav a:hover{
+    color: white;
+    text-decoration: underline;
+}
+main{
+    display: flex;
+    flex-direction: column;
+}
+main h2{
+    text-align: center;
+    color: red;
+}
+#peliculas, #directores, #actores, #compositores{
+    margin-top: 100px;
+}
+main div div{
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 80px;
+    background-color: black;
+    font-size: 18px;
+}
+main div div section{
+    display: flex;
+    justify-content: center;
+}
+main div div section img{
+    width: 350px;
+    height: 95%;
+    margin: 20px;
+}
+main div div div{
+    display: inline;
+    padding: 20px;
+}
+
+@media screen and (min-width: 1368px) {
+    main div div section img {
+        width: 400px;
+        margin: 10px;
+    }
+}
+
+@media screen and (max-width: 1367px) {
+    main div div{
+        font-size: 16px;
+    }
+    main div div section img {
+        width: 350px;
+        height: 95%;
+        margin: 5px;
+    }
+}
+

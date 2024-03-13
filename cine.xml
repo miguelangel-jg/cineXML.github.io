@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cine SYSTEM "cine.dtd">
+<cine>
+    <peliculas>
+        <pelicula>
+            <titulo>Oppenheimer</titulo>
+            <genero>Biopic/Historica</genero>
+            <a_estreno>2023</a_estreno>
+            <reparto>
+                <principales>
+                    <principal>Cillian Murphy</principal>
+                    <principal>Robert Downey Jr</principal>
+                </principales>
+                <secundarios>
+                    <secundario>Emily Blunt</secundario>
+                    <secundario>Florence Pugh</secundario>
+                </secundarios>
+            </reparto>
+            <director_pelicula>Christopher Nolan</director_pelicula>
+            <banda_sonora>Ludwig Goransson</banda_sonora>
+            <productora>Universal Pictures</productora>
+            <recaudacion>1000 millones</recaudacion>
+            <premios_pelicula>
+                <premio_pelicula>
+                    <categoria_premio>Globo de Oro: Mejor Director</categoria_premio>
+                    <ganador_premio>Christopher Nolan</ganador_premio>  
+                </premio_pelicula>
+                <premio_pelicula>
+                    <categoria_premio>Globo de Oro: Mejor Actor</categoria_premio>
+                    <ganador_premio>Cillian Murphy</ganador_premio>
+                </premio_pelicula>
+                <premio_pelicula>
+                    <categoria_premio>Globo de Oro: Mejor Pelicula</categoria_premio>
+                    <ganador_premio>Oppenheimer</ganador_premio>
+                </premio_pelicula>
+                <premio_pelicula>
+                    <categoria_premio>Globo de Oro: Mejor actor de Reparto</categoria_premio>
+                    <ganador_premio>Robert Downey Jr</ganador_premio>
+                </premio_pelicula>
+            </premios_pelicula>
+        </pelicula>
+
+        <pelicula>
+            <titulo>Vengadores Endgame</titulo>
+            <genero>Accion / Superheroes</genero>
+            <a_estreno>2019</a_estreno>
+            <reparto>
+                <principales>
+                    <principal>Chris Evans</principal>
+                    <principal>Robert Downey Jr</principal>
+                </principales>
+                <secundarios>
+                    <secundario>Tom Holland</secundario>
+                    <secundario>Scarlett Johansson</secundario>
+                </secundarios>
+            </reparto>
+            <director_pelicula>Anthony y Joe Russo</director_pelicula>
+            <banda_sonora>Alan Silvestri</banda_sonora>
+            <productora>Marvel Studios</productora>
+            <recaudacion>2800 millones</recaudacion>
+            <premios_pelicula>
+                <premio_pelicula>
+                    <categoria_premio>AVN Awards: Mejores Efectos Especiales</categoria_premio>
+                    <ganador_premio>Anthony y Joe Russo</ganador_premio>
+                </premio_pelicula>
+            </premios_pelicula>
+        </pelicula>
+
+        <pelicula>
+            <titulo>Forrest Gump</titulo>
+            <genero>Drama</genero>
+            <a_estreno>1994</a_estreno>
+            <reparto>
+                <principales>
+                    <principal>Tom Hanks</principal>
+                    <principal>Robin Wright</principal>
+                </principales>
+                <secundarios>
+                    <secundario>Gary Sinise</secundario>
+                    <secundario>Haley Joel Osment</secundario>
+                </secundarios>
+            </reparto>
+            <director_pelicula>Robert Zemeckis</director_pelicula>
+            <banda_sonora>Alan Silvestri</banda_sonora>
+            <productora>Paramount Pictures</productora>
+            <recaudacion>678 millones</recaudacion>
+            <premios_pelicula>
+                <premio_pelicula>
+                    <categoria_premio>Oscar: Mejor Pelicula</categoria_premio>
+                    <ganador_premio></ganador_premio>
+                </premio_pelicula>
+                <premio_pelicula>
+                    <categoria_premio>Oscar: Mejor Actor</categoria_premio>
+                    <ganador_premio>Tom Hanks</ganador_premio>
+                </premio_pelicula>
+                <premio_pelicula>
+                    <categoria_premio>Oscar: Mejor Direccion</categoria_premio>
+                    <ganador_premio>Robert Zemeckis</ganador_premio>
+                </premio_pelicula>
+            </premios_pelicula>
+        </pelicula>
+        <pelicula>
+            <titulo>El caballero Oscuro</titulo>
+            <genero>Accion/ Suerheroes</genero>
+            <a_estreno>2008</a_estreno>
+            <reparto>
+                <principales>
+                    <principal>Christian Bale</principal>
+                    <principal>Heath Ledger</principal>
+                </principales>
+                <secundarios>
+                    <secundario>Aaron Eckart</secundario>
+                    <secundario>Michael Cane</secundario>
+                </secundarios>
+            </reparto>
+            <director_pelicula>Christopher Nolan</director_pelicula>
+            <banda_sonora>Hans Zimmer </banda_sonora>
+            <productora>Warner Bros</productora>
+            <recaudacion>1000 millones</recaudacion>
+            <premios_pelicula>
+                <premio_pelicula>
+                    <categoria_premio>Oscar: Mejor Actor de Reparto</categoria_premio>
+                    <ganador_premio>Heath Ledger</ganador_premio>
+                </premio_pelicula>
+            </premios_pelicula>
+        </pelicula>
+
+        <pelicula>
+            <titulo>Pulp Fiction</titulo>
+            <genero>Crimen / Suspenso</genero>
+            <a_estreno>1995</a_estreno>
+            <reparto>
+                <principales>
+                    <principal>Samuel L Jackson</principal>
+                    <principal>John Travolta</principal>
+                </principales>
+                <secundarios>
+                    <secundario>Bruce Willis</secundario>
+                    <secundario>Uma Thurman</secundario>
+                </secundarios>
+            </reparto>
+            <director_pelicula>Quentin Tarantino</director_pelicula>
+            <banda_sonora>Quentin Tarantino</banda_sonora>
+            <productora>Miramax</productora>
+            <recaudacion>213 millones</recaudacion>
+            <premios_pelicula>
+                <premio_pelicula>
+                    <categoria_premio>Globo de Oro: Mejor Guion</categoria_premio>
+                    <ganador_premio>Quentin Tarantino</ganador_premio>
+                </premio_pelicula>
+            </premios_pelicula>
+        </pelicula>
+
+        <pelicula>
+            <titulo>Django Desencadenado</titulo>
+            <genero>Western</genero>
+            <a_estreno>2012</a_estreno>
+            <reparto>
+                <principales>
+                    <principal>Jamie Foxx</principal>
+                    <principal>Leonardo Dicaprio</principal>
+                </principales>
+                <secundarios>
+                    <secundario>Christoph Waltz</secundario>
+                    <secundario>Samuel L Jackson</secundario>
+                </secundarios>
+            </reparto>
+            <director_pelicula>Quentin Tarantino</director_pelicula>
+            <banda_sonora>Ennio Morricone</banda_sonora>
+            <productora>SONY PICTURES</productora>
+            <recaudacion>426 millones</recaudacion>
+            <premios_pelicula>
+                <premio_pelicula>
+                    <categoria_premio>Oscar: Mejor Guion</categoria_premio>
+                    <ganador_premio>Quentin Tarantino</ganador_premio>
+                </premio_pelicula>
+                <premio_pelicula>
+                    <categoria_premio>Oscar: Mejor Actor de Reparto</categoria_premio>
+                    <ganador_premio>Christoph Waltz</ganador_premio>
+                </premio_pelicula>
+                <premio_pelicula>
+                    <categoria_premio>Globo de Oro: Mejor Guion</categoria_premio>
+                    <ganador_premio>Quentin Tarantino</ganador_premio>
+                </premio_pelicula>
+            </premios_pelicula>
+        </pelicula>
+            <pelicula>
+                <titulo>Infiltrados</titulo>
+                <genero>Crimen / Suspenso</genero>
+                <a_estreno>2006</a_estreno>
+                <reparto>
+                    <principales>
+                        <principal>Jack Nicholson</principal>
+                        <principal>Leonardo Dicaprio</principal>
+                    </principales>
+                    <secundarios>
+                        <secundario>Vera Farmiga</secundario>
+                        <secundario>Matt Damon</secundario>
+                    </secundarios>
+                </reparto>
+                <director_pelicula>Martin Scorsese</director_pelicula>
+                <banda_sonora>Howard Shore</banda_sonora>
+                <productora>Warner Bros</productora>
+                <recaudacion>291 millones</recaudacion>
+                <premios_pelicula>
+                    <premio_pelicula>
+                        <categoria_premio>Oscar: Mejor Direccion</categoria_premio>
+                        <ganador_premio>Martin Scorsese</ganador_premio>
+                    </premio_pelicula>
+                    <premio_pelicula>
+                        <categoria_premio>Oscar: Mejor Pelicula</categoria_premio>
+                        <ganador_premio>Infiltrados</ganador_premio>
+                    </premio_pelicula>
+                    <premio_pelicula>
+                        <categoria_premio>Globo de Oro: Mejor Direccion</categoria_premio>
+                        <ganador_premio>Martin Scorsese</ganador_premio>
+                    </premio_pelicula>
+                </premios_pelicula>
+            </pelicula>
+
+            <pelicula>
+                <titulo>Toy Story</titulo>
+                <genero>Animacion / Infantil</genero>
+                <a_estreno>1995</a_estreno>
+                <reparto>
+                    <principales>
+                        <principal>Tom Hanks (Woody)</principal>
+                        <principal>Tim Allen (Buzz Lightyear)</principal>
+                    </principales>
+                    <secundarios>
+                        <secundario>Wallace Shawn (Rex)</secundario>
+                        <secundario>Jim Varney (Slinky)</secundario>
+                    </secundarios>
+                </reparto>
+                <director_pelicula>John Lasseter</director_pelicula>
+                <banda_sonora>Randy Newman</banda_sonora>
+                <productora>Disney Pixar</productora>
+                <recaudacion>395 millones</recaudacion>
+                <premios_pelicula>
+                    <premio_pelicula>
+                        <categoria_premio>Premios Annie: Mejor Pelicula Animada</categoria_premio>
+                        <ganador_premio>Toy Story</ganador_premio>
+                    </premio_pelicula>
+                </premios_pelicula>
+            </pelicula>
+
+            <pelicula>
+                <titulo>El Renacido</titulo>
+                <genero>Western / Accion</genero>
+                <a_estreno>2015</a_estreno>
+                <reparto>
+                    <principales>
+                        <principal>Leonardo DiCaprio</principal>
+                        <principal>Tom Hardy</principal>
+                    </principales>
+                    <secundarios>
+                        <secundario>Will Pouter</secundario>
+                        <secundario>Paul Anderson</secundario>
+                    </secundarios>
+                </reparto>
+                <director_pelicula>Alejandro Gomez Iñarritu</director_pelicula>
+                <banda_sonora>Ryuichi Sakamoto</banda_sonora>
+                <productora>20th Century Fox</productora>
+                <recaudacion>533 millones</recaudacion>
+                <premios_pelicula>
+                    <premio_pelicula>
+                        <categoria_premio>Oscar: Mejor Actor</categoria_premio>
+                        <ganador_premio>Leonardo Dicaprio</ganador_premio>
+                    </premio_pelicula>
+                    <premio_pelicula>
+                        <categoria_premio>Oscar: Mejor Director</categoria_premio>
+                        <ganador_premio>Alejandro Gomez Iñarritu</ganador_premio>
+                    </premio_pelicula>
+                    <premio_pelicula>
+                        <categoria_premio>Globo de Oro: Mejor Actor</categoria_premio>
+                        <ganador_premio>Leonardo Dicaprio</ganador_premio>
+                    </premio_pelicula>
+                </premios_pelicula>
+            </pelicula>
+
+            <pelicula>
+                <titulo>Star Wars Episodio III</titulo>
+                <genero>Ciencia Ficcion</genero>
+                <a_estreno>2005</a_estreno>
+                <reparto>
+                    <principales>
+                        <principal>Hayden Christensen</principal>
+                        <principal>Ewan McGregor</principal>
+                    </principales>
+                    <secundarios>
+                        <secundario>Natalie Portman</secundario>
+                        <secundario>Samuel L Jackson</secundario>
+                    </secundarios>
+                </reparto>
+                <director_pelicula>George Lucas</director_pelicula>
+                <banda_sonora>John Williams</banda_sonora>
+                <productora>20th Century Fox</productora>
+                <recaudacion>865 millones</recaudacion>
+                <premios_pelicula>
+                    <premio_pelicula>
+                        <categoria_premio>Premios Satellite: Mejores Efectos Visuales</categoria_premio>
+                        <ganador_premio>George Lucas</ganador_premio>
+                    </premio_pelicula>
+                </premios_pelicula>
+            </pelicula>
+        </peliculas>
+
+        <directores>
+            <director>
+                <nombre>Quentin Tarantino</nombre>
+                <obras>
+                    <obra>Pulp Fiction</obra>
+                    <obra>Malditos Bastardos</obra>
+                    <obra>Django Desencadenado</obra>
+                    <obra>Kill Bill</obra>
+                    <obra>Los odiosos ocho</obra>
+                    <obra>Erase una vez en Hollywood</obra>
+                </obras>
+                <premios_director>
+                    <premio_director>
+                        <categoria>Globo de Oro: Mejor Guion</categoria>
+                        <obra_ganadora>Erase una vez en Hollywood</obra_ganadora>
+                    </premio_director>
+                    <premio_director>
+                        <categoria>Oscar: Mejor Guion Original</categoria>
+                        <obra_ganadora>Pulp Fiction</obra_ganadora>
+                    </premio_director>
+                    <premio_director>
+                        <categoria>Globo de Oro: Mejor Guion</categoria>
+                        <obra_ganadora>Django Desencadenado</obra_ganadora>
+                    </premio_director>
+                </premios_director>
+            </director>
+            <director>
+                <nombre>Christopher Nolan</nombre>
+                <obras>
+                    <obra>Batman Inicia</obra>
+                    <obra>El caballero Oscuro</obra>
+                    <obra>Origen</obra>
+                    <obra>Interestellar</obra>
+                    <obra>Dunkerke</obra>
+                    <obra>Oppenheimer</obra>
+                </obras>
+                <premios_director>
+                    <premio_director>
+                        <categoria>Globo de Oro: Mejor Director</categoria>
+                        <obra_ganadora>Oppenheimer</obra_ganadora>
+                    </premio_director>
+                </premios_director>
+            </director>
+            <director>
+                <nombre>Steven Spielberg</nombre>
+                <obras>
+                    <obra>La lista de Schindler</obra>
+                    <obra>Salvar al soldado Ryan</obra>
+                    <obra>La Terminal</obra>
+                    <obra>La guerra de los mundos</obra>
+                    <obra>Ready Player One</obra>
+                    <obra>Indiana Jones y el Templo Maldito</obra>
+                </obras>
+                <premios_director>
+                    <premio_director>
+                        <categoria>Globo de Oro: Mejor Director</categoria>
+                        <obra_ganadora>Salvar al Soldado Ryan</obra_ganadora>
+                    </premio_director>
+                    <premio_director>
+                        <categoria>Globo de Oro: Mejor Pelicula - Drama</categoria>
+                        <obra_ganadora>E.T El Extraterrestre</obra_ganadora>
+                    </premio_director>
+                    <premio_director>
+                        <categoria>Globo de Oro: Mejor Pelicula - Drama</categoria>
+                        <obra_ganadora>Salvar al Soldado Ryan</obra_ganadora>
+                    </premio_director>
+                    <premio_director>
+                        <categoria>Oscar: Mejor Pelicula</categoria>
+                        <obra_ganadora>La Lista de Schindler</obra_ganadora>
+                    </premio_director>
+                    <premio_director>
+                        <categoria>Oscar: Mejor Director</categoria>
+                        <obra_ganadora>La Lista de Schindler</obra_ganadora>
+                    </premio_director>
+                </premios_director>
+            </director>
+            <director>
+                <nombre>Martin Scorsese</nombre>
+                <obras>
+                    <obra>El Lobo del Wall Street</obra>
+                    <obra>Shutter Island</obra>
+                    <obra>Infiltrados</obra>
+                    <obra>Los Asesinos de la Luna</obra>
+                    <obra>El Irlandes</obra>
+                    <obra>Uno de los nuestros</obra>
+                </obras>
+                <premios_director>
+                    <premio_director>
+                        <categoria>Globo de Oro: Mejor Director</categoria>
+                        <obra_ganadora>Hugo</obra_ganadora>
+                    </premio_director>
+                    <premio_director>
+                        <categoria>Oscar: Mejor Direccion</categoria>
+                        <obra_ganadora>Infiltrados</obra_ganadora>
+                    </premio_director>
+                    <premio_director>
+                        <categoria>Globo de Oro: Mejor Director</categoria>
+                        <obra_ganadora>Gangs of New York</obra_ganadora>
+                    </premio_director>
+                    <premio_director>
+                        <categoria>Globo de Oro: Mejor Director</categoria>
+                        <obra_ganadora>Infiltrados</obra_ganadora>
+                    </premio_director>
+                </premios_director>
+            </director>
+            <director>
+                <nombre>Juan Antonio Bayona</nombre>
+                <obras>
+                    <obra>El Orfanato</obra>
+                    <obra>Lo Imposible</obra>
+                    <obra>La Sociedad de la Nieve</obra>
+                    <obra>Un monstruo viene a verme</obra>
+                </obras>
+                <premios_director>
+                    <premio_director>
+                        <categoria>Goya: Mejor Director</categoria>
+                        <obra_ganadora>La Sociedad de la Nieve</obra_ganadora>
+                    </premio_director>
+                    <premio_director>
+                        <categoria>Goya: Mejor Direccion Novel</categoria>
+                        <obra_ganadora>El Orfanato</obra_ganadora>
+                    </premio_director>
+                    <premio_director>
+                        <categoria>Goya: Mejor Director</categoria>
+                        <obra_ganadora>Un monstruo viene a verme</obra_ganadora>
+                    </premio_director>
+                </premios_director>
+            </director>
+
+        </directores>
+
+        <actores>
+            <actor>
+                <nombre>Leonardo Dicaprio</nombre>
+                <actuaciones>
+                    <actuacion>Titanic</actuacion>
+                    <actuacion>El Lobo de Wall Street</actuacion>
+                    <actuacion>Origen</actuacion>
+                    <actuacion>El Renacido</actuacion>
+                    <actuacion>Titanic</actuacion>
+                    <actuacion>Los Asesinos de la Luna</actuacion>
+                    <actuacion>Django Desencadenado</actuacion>
+                    <actuacion>Atrapame si puedes</actuacion>
+                    <actuacion>Shutter Island</actuacion>
+                    <actuacion>El Gran Gatsby</actuacion>
+                    <actuacion>Diamantes de Sangre</actuacion>
+                </actuaciones>
+                <premios_actor>
+                    <premio_actor>
+                        <categoria_actuacion>Oscar: Mejor Actor</categoria_actuacion>
+                        <actuacion>El Renacido</actuacion>
+                    </premio_actor>
+                    <premio_actor>
+                        <categoria_actuacion>Globo de Oro: Mejor Actor</categoria_actuacion>
+                        <actuacion>El Renacido</actuacion>
+                    </premio_actor>
+                    <premio_actor>
+                        <categoria_actuacion>Globo de Oro: Mejor Actor</categoria_actuacion>
+                        <actuacion>El Aviador</actuacion>
+                    </premio_actor>
+                </premios_actor>
+            </actor>
+            <actor>
+                <nombre>Christian Bale</nombre>
+                <actuaciones>
+                    <actuacion>Thor Amor y Trueno</actuacion>
+                    <actuacion>Batman Begins</actuacion>
+                    <actuacion>El Maquinista</actuacion>
+                    <actuacion>Tren de las 3:10</actuacion>
+                    <actuacion>American Psycho</actuacion>
+                    <actuacion>El Peleador</actuacion>
+                    <actuacion>El Prestigio</actuacion>
+                    <actuacion>Ford vs Ferrari</actuacion>
+                    <actuacion>La Gran Apuesta</actuacion>
+                    <actuacion>Escandalo Americano</actuacion>
+                    <actuacion>Vice</actuacion>
+                </actuaciones>
+                <premios_actor>
+                    <premio_actor>
+                        <categoria_actuacion>Oscar: Mejor Actor de Reparto</categoria_actuacion>
+                        <actuacion>El Peleador</actuacion>
+                    </premio_actor>
+                    <premio_actor>
+                        <categoria_actuacion>Globo de Oro: Mejor Actor de Reparto</categoria_actuacion>
+                        <actuacion>El Peleador</actuacion>
+                    </premio_actor>
+                    <premio_actor>
+                        <categoria_actuacion>Globo de Oro: Mejor Actor</categoria_actuacion>
+                        <actuacion>Vice</actuacion>
+                    </premio_actor>
+                </premios_actor>
+            </actor>
+            <actor>
+                <nombre>Meryl Streep</nombre>
+                <actuaciones>
+                    <actuacion>El Diablo viste de Prada</actuacion>
+                    <actuacion>Mamma Mia</actuacion>
+                    <actuacion>Los Puentes de Madison</actuacion>
+                    <actuacion>Enamorandome de mi Ex</actuacion>
+                    <actuacion>El Francotirador</actuacion>
+                    <actuacion>La decision de Shopie</actuacion>
+                    <actuacion>No mires Arriba</actuacion>
+                    <actuacion>Mujercitas</actuacion>
+                    <actuacion>La Dama de Hierro</actuacion>
+                    <actuacion>Memorias de Africa</actuacion>
+                </actuaciones>
+                <premios_actor>
+                    <premio_actor>
+                        <categoria_actuacion>Oscar: Mejor Actriz de Reparto</categoria_actuacion>
+                        <actuacion>Kramer vs Kramer</actuacion>
+                    </premio_actor>
+                    <premio_actor>
+                        <categoria_actuacion>Oscar: Mejor Actriz</categoria_actuacion>
+                        <actuacion>La decision de Sophie</actuacion>
+                    </premio_actor>
+                    <premio_actor>
+                        <categoria_actuacion>Oscar: Mejor Actriz</categoria_actuacion>
+                        <actuacion>La Dama de Hierro</actuacion>
+                    </premio_actor>
+                    <premio_actor>
+                        <categoria_actuacion>Globo de Oro: Mejor Actriz</categoria_actuacion>
+                        <actuacion>La decision de Sophie</actuacion>
+                    </premio_actor>
+                    <premio_actor>
+                        <categoria_actuacion>Globo de Oro: Mejor Actriz</categoria_actuacion>
+                        <actuacion>La Mujer del Teniente Frances</actuacion>
+                    </premio_actor>
+                </premios_actor>
+            </actor>
+            <actor>
+                <nombre>Jodie Foster</nombre>
+                <actuaciones>
+                    <actuacion>El Silencio de los Corderos</actuacion>
+                    <actuacion>Nyad</actuacion>
+                    <actuacion>La Habitacion del Panico</actuacion>
+                    <actuacion>Taxi Driver</actuacion>
+                    <actuacion>Acusados</actuacion>
+                    <actuacion>El Plan Perfecto</actuacion>
+                    <actuacion>Desaparecida</actuacion>
+                    <actuacion>Valiente</actuacion>
+                    <actuacion>Viernes Loco</actuacion>
+                    <actuacion>Contacto</actuacion>
+                </actuaciones>
+                <premios_actor>
+                    <premio_actor>
+                        <categoria_actuacion>Oscar: Mejor Actriz</categoria_actuacion>
+                        <actuacion>Acusados</actuacion>
+                    </premio_actor>
+                    <premio_actor>
+                        <categoria_actuacion>Oscar: Mejor Actriz</categoria_actuacion>
+                        <actuacion>El Silencio de los Corderos</actuacion>
+                    </premio_actor>
+                    <premio_actor>
+                        <categoria_actuacion>Globo de Oro: Mejor Actriz</categoria_actuacion>
+                        <actuacion>Acusados</actuacion>
+                    </premio_actor>
+                    <premio_actor>
+                        <categoria_actuacion>Globo de Oro: Mejor Actriz</categoria_actuacion>
+                        <actuacion>El Silencio de los Corderos</actuacion>
+                    </premio_actor>
+                </premios_actor>
+            </actor>
+            <actor>
+                <nombre>Nicole Kidman</nombre>
+                <actuaciones>
+                    <actuacion>Ojos Bien Cerrados</actuacion>
+                    <actuacion>Aquaman</actuacion>
+                    <actuacion>Moulin Rouge</actuacion>
+                    <actuacion>Sigueme el Rollo</actuacion>
+                    <actuacion>Australia</actuacion>
+                    <actuacion>Batman Forever</actuacion>
+                </actuaciones>
+                <premios_actor>
+                    <premio_actor>
+                        <categoria_actuacion>Oscar: Mejor Actriz</categoria_actuacion>
+                        <actuacion>Las Horas</actuacion>
+                    </premio_actor>
+                    <premio_actor>
+                        <categoria_actuacion>Oscar: Mejor Actriz</categoria_actuacion>
+                        <actuacion>Mrs. Dalloway</actuacion>
+                    </premio_actor>
+                </premios_actor>
+            </actor>
+            <actor>
+                <nombre>Brad Pit</nombre>
+                <actuaciones>
+                    <actuacion>El Club de la Lucha</actuacion>
+                    <actuacion>Erase una vez en Hollywood</actuacion>
+                    <actuacion>Malditos Bastardos</actuacion>
+                    <actuacion>Bullet Train</actuacion>
+                    <actuacion>Sr y Sra Smith</actuacion>
+                    <actuacion>Guerra Mundial Z</actuacion>
+                    <actuacion>Troya</actuacion>
+                    <actuacion>Babylon</actuacion>
+                    <actuacion>Seven</actuacion>
+                    <actuacion>Oceans Eleven</actuacion>
+                    <actuacion>Snatch</actuacion>
+                </actuaciones>
+                <premios_actor>
+                    <premio_actor>
+                        <categoria_actuacion>Oscar: Mejor pelicula</categoria_actuacion>
+                        <actuacion>Doce Años de Esclavitud</actuacion>
+                    </premio_actor>
+                    <premio_actor>
+                        <categoria_actuacion>Oscar: Mejor Actor de Reparto</categoria_actuacion>
+                        <actuacion>Erase una vez en Hollywood</actuacion>
+                    </premio_actor>
+                    <premio_actor>
+                        <categoria_actuacion>Globo de Oro: Mejor Actor de Reparto</categoria_actuacion>
+                        <actuacion>Erase una vez en Hollywood</actuacion>
+                    </premio_actor>
+                </premios_actor>
+            </actor>
+            <actor>
+                <nombre>Margot Robbie</nombre>
+                <actuaciones>
+                    <actuacion>Escuadron Suicida</actuacion>
+                    <actuacion>Aves de Presa</actuacion>
+                    <actuacion>El Lobo de Wall Street</actuacion>
+                    <actuacion>Barbie</actuacion>
+                    <actuacion>Babylon</actuacion>
+                    <actuacion>Erase una vez en Hollywood</actuacion>
+                    <actuacion>Focus</actuacion>
+                </actuaciones>
+                <premios_actor>
+                    <premio_actor>
+                        <categoria_actuacion>Empire: Mejor Actriz Revelacion</categoria_actuacion>
+                        <actuacion>El Lobo de Wall Street</actuacion>
+                    </premio_actor>
+                </premios_actor>
+            </actor>
+            <actor>
+                <nombre>Emma Stone</nombre>
+                <actuaciones>
+                    <actuacion>Pobres criaturas</actuacion>
+                    <actuacion>Cruella</actuacion>
+                    <actuacion>La La Land</actuacion>
+                    <actuacion>The Amazing Spiderman</actuacion>
+                    <actuacion>Zombieland</actuacion>
+                    <actuacion>Criadas y Señoras</actuacion>
+                    <actuacion>Loco Estupido Amor</actuacion>
+                    <actuacion>La Favorita</actuacion>
+                    <actuacion>Rumores y Mentiras</actuacion>
+                </actuaciones>
+                <premios_actor>
+                    <premio_actor>
+                        <categoria_actuacion>Oscar: Mejor Actriz</categoria_actuacion>
+                        <actuacion>La La Land</actuacion>
+                    </premio_actor>
+                    <premio_actor>
+                        <categoria_actuacion>Globo de Oro: Mejor Actriz</categoria_actuacion>
+                        <actuacion>La La Land</actuacion>
+                    </premio_actor>
+                    <premio_actor>
+                        <categoria_actuacion>Globo de Oro: Mejor Actriz</categoria_actuacion>
+                        <actuacion>Pobres Criaturas</actuacion>
+                    </premio_actor>
+                </premios_actor>
+            </actor>
+            <actor>
+                <nombre>Emily Blunt</nombre>
+                <actuaciones>
+                    <actuacion>Un lugar Tranquilo</actuacion>
+                    <actuacion>Al filo del Mañana</actuacion>
+                    <actuacion>Oppenheimer</actuacion>
+                    <actuacion>Jungle Cruise</actuacion>
+                    <actuacion>El regreso de Mary Poppins</actuacion>
+                    <actuacion>Sicario</actuacion>
+                    <actuacion>El Diablo se viste de Prada</actuacion>
+                    <actuacion>La Chica del Tren</actuacion>
+                    <actuacion>La Hija de Gideon</actuacion>
+                </actuaciones>
+                <premios_actor>
+                    <premio_actor>
+                        <categoria_actuacion>Globo de Oro: Mejor Actriz de Reparto</categoria_actuacion>
+                        <actuacion>La Hija de Gideon</actuacion>
+                    </premio_actor>
+                </premios_actor>
+            </actor>
+
+        </actores>
+        <compositores>
+            <compositor>
+                <nombre>John Williams</nombre>
+                <peliculas_compuestas>
+                    <pelicula_compuesta>Superman The Movie</pelicula_compuesta>
+                    <pelicula_compuesta> Saga Star Wars</pelicula_compuesta>
+                    <pelicula_compuesta>Saga Indiana Jones</pelicula_compuesta>
+                    <pelicula_compuesta>Saga Harry Potter</pelicula_compuesta>
+                    <pelicula_compuesta>Saga Jurassic Park</pelicula_compuesta>
+                    <pelicula_compuesta>La lista de Schindler</pelicula_compuesta>
+                </peliculas_compuestas>
+                <premios_compositores>
+                    <premio_compositor>
+                        <galardones>Oscar: Mejor Banda Sonora</galardones>
+                        <pelicula_premiada>La lista de Schindler</pelicula_premiada>
+                    </premio_compositor>
+                    <premio_compositor>
+                        <galardones>Oscar: Mejor Banda Sonora</galardones>
+                        <pelicula_premiada>E.T el Extraterrestre</pelicula_premiada>
+                    </premio_compositor>
+                    <premio_compositor>
+                        <galardones>Oscar: Mejor Banda Sonora</galardones>
+                        <pelicula_premiada>Tiburon</pelicula_premiada>
+                    </premio_compositor>
+                    <premio_compositor>
+                        <galardones>Globo de Oro: Mejor Banda Sonora</galardones>
+                        <pelicula_premiada>Star Wars</pelicula_premiada>
+                    </premio_compositor>
+                </premios_compositores>
+            </compositor>
+            <compositor>
+                <nombre>Hans Zimmer</nombre>
+                <peliculas_compuestas>
+                    <pelicula_compuesta>Origen</pelicula_compuesta>
+                    <pelicula_compuesta>Interestellar</pelicula_compuesta>
+                    <pelicula_compuesta>Gladiator</pelicula_compuesta>
+                    <pelicula_compuesta>El Principe de Egipto</pelicula_compuesta>
+                    <pelicula_compuesta>Marea Roja</pelicula_compuesta>
+                </peliculas_compuestas>
+                <premios_compositores>
+                    <premio_compositor>
+                        <galardones>Oscar: Mejor Banda Sonora</galardones>
+                        <pelicula_premiada>El Rey Leon</pelicula_premiada>
+                    </premio_compositor>
+                    <premio_compositor>
+                        <galardones>Oscar: Mejor Banda Sonora</galardones>
+                        <pelicula_premiada>Dune</pelicula_premiada>
+                    </premio_compositor>
+                    <premio_compositor>
+                        <galardones>Globo de Oro: Mejor Banda Sonora</galardones>
+                        <pelicula_premiada>Gladiator</pelicula_premiada>
+                    </premio_compositor>
+                </premios_compositores>
+            </compositor>
+            <compositor>
+                <nombre>Ludwig Goransson</nombre>
+                <peliculas_compuestas>
+                    <pelicula_compuesta>Saga Creed</pelicula_compuesta>
+                    <pelicula_compuesta>Black Panther</pelicula_compuesta>
+                    <pelicula_compuesta>Tenet</pelicula_compuesta>
+                    <pelicula_compuesta>Venom</pelicula_compuesta>
+                </peliculas_compuestas>
+                <premios_compositores>
+                    <premio_compositor>
+                        <galardones>Oscar: Mejor Banda Sonora</galardones>
+                        <pelicula_premiada>Black Panther</pelicula_premiada>
+                    </premio_compositor>
+                    <premio_compositor>
+                        <galardones>Globo de Oro: Mejor Banda Sonora</galardones>
+                        <pelicula_premiada>Oppenheimer</pelicula_premiada>
+                    </premio_compositor>
+                </premios_compositores>
+            </compositor>
+        </compositores>
+    </cine>

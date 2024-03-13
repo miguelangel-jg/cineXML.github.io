@@ -1,0 +1,51 @@
+<!ELEMENT cine (peliculas, directores,actores,compositores)>
+<!ELEMENT peliculas (pelicula+)>
+
+<!-- Peliculas-->
+<!ELEMENT pelicula (titulo,genero,a_estreno,reparto,director_pelicula,banda_sonora,productora,recaudacion, premios_pelicula)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT genero (#PCDATA)>
+<!ELEMENT a_estreno (#PCDATA)>
+<!ELEMENT reparto (principales,secundarios)>
+<!ELEMENT principales (principal+)>
+<!ELEMENT secundarios (secundario+)>
+<!ELEMENT principal (#PCDATA)>
+<!ELEMENT secundario (#PCDATA)>
+<!ELEMENT director_pelicula (#PCDATA)>
+<!ELEMENT banda_sonora (#PCDATA)>
+<!ELEMENT productora (#PCDATA)>
+<!ELEMENT recaudacion (#PCDATA)>
+<!ELEMENT premios_pelicula (premio_pelicula+)>
+<!ELEMENT premio_pelicula (categoria_premio,ganador_premio)>
+<!ELEMENT categoria_premio (#PCDATA)>
+<!ELEMENT ganador_premio (#PCDATA)>
+
+<!-- Directores-->
+<!ELEMENT directores (director+)>
+<!ELEMENT director (nombre,obras,premios_director)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT obras (obra+)>
+<!ELEMENT obra (#PCDATA)>
+<!ELEMENT premios_director (premio_director+)>
+<!ELEMENT premio_director (categoria,obra_ganadora)>
+<!ELEMENT obra_ganadora (#PCDATA)>
+<!ELEMENT categoria (#PCDATA)>
+
+<!-- Actores -->
+<!ELEMENT actores (actor+)>
+<!ELEMENT actor (nombre,actuaciones,premios_actor)>
+<!ELEMENT actuaciones (actuacion+)>
+<!ELEMENT premios_actor (premio_actor+)>
+<!ELEMENT premio_actor (categoria_actuacion, actuacion)>
+<!ELEMENT categoria_actuacion (#PCDATA)>
+<!ELEMENT actuacion (#PCDATA)>
+
+<!-- Musicos-->
+<!ELEMENT compositores (compositor+)>
+<!ELEMENT compositor (nombre,peliculas_compuestas,premios_compositores)>
+<!ELEMENT peliculas_compuestas (pelicula_compuesta+)>
+<!ELEMENT pelicula_compuesta (#PCDATA)>
+<!ELEMENT premios_compositores (premio_compositor+)>
+<!ELEMENT premio_compositor (galardones,pelicula_premiada)>
+<!ELEMENT galardones (#PCDATA)>
+<!ELEMENT pelicula_premiada (#PCDATA)>
